@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591603671144.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "203621217",
+    "id" : "11BBE9F1",
+    "lastKnownWriteTime" : 1591603666,
+    "last_content_update" : 1591603666,
+    "path" : "~/git/analiticas/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591603900581.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3989530828",
+    "id" : "9507F448",
+    "lastKnownWriteTime" : 1591603666,
+    "last_content_update" : 1591603666,
+    "path" : "~/git/analiticas/book.bib",
+    "project_path" : "book.bib",
+    "properties" : {
+        "cursorPosition" : "8,34",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
